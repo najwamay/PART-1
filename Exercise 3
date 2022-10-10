@@ -1,0 +1,7 @@
+paintwhite ()
+east (6)
+north (6)
+west (6)
+south (12)
+east (6)
+north (6)
